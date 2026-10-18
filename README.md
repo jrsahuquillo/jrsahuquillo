@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="José Ramón Sahuquillo, Ruby on Rails Engineer" src="./assets/header-light.svg">
-</picture>
+<img alt="José Ramón Sahuquillo, Ruby on Rails Engineer at 237 Global" src="./assets/header.svg">
 
 ### Hi, I'm Sahu 👋
 
