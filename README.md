@@ -1,4 +1,4 @@
-<img alt="José Ramón Sahuquillo, Ruby on Rails Engineer at 237 Global" src="./assets/header.svg">
+<img alt="José Ramón Sahuquillo, Ruby on Rails Engineer at 237 Global" src="./assets/header.svg?v=2">
 
 ### Hi, I'm Sahu 👋
 
