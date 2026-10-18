@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="José Ramón Sahuquillo, Ruby on Rails Engineer" src="./assets/header-light.svg">
+</picture>
+
 ### Hi, I'm Sahu 👋
 
 Software Engineer at [237 Global](https://www.237global.com), working remotely from Valencia, Spain. I've been building with **Ruby on Rails** professionally since 2017.
