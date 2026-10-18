@@ -15,11 +15,11 @@ Software Engineer at [237 Global](https://www.237global.com), working remotely f
 - Build and maintain backend features in Rails, from database design and models to business logic
 - Develop the tooling that turns app designs into production-ready configurations consumed by mobile apps
 - Write tests and keep codebases clean, readable and easy to change
-- Use AI-assisted workflows to ship faster without lowering the bar on quality
+- Work with AI agents and assisted workflows as a daily driver — scaffolding features, refactoring, generating and reviewing tests, and automating the tedious parts — while keeping the architecture and final call my own
 
 **What I care about**
 
-Clean code, solid fundamentals, TDD and getting the small details right. I think the quality of the code matters as much as the feature it ships.
+Clean code, solid fundamentals, TDD and getting the small details right. I think the quality of the code matters as much as the feature it ships — and that strong fundamentals are exactly what let me push AI tools hard without shipping plausible-looking bugs. The leverage is only as good as the judgment steering it.
 
 **Stack**
 
