@@ -38,4 +38,4 @@ Clean code, solid fundamentals, TDD and getting the small details right. I think
 
 **Find me**
 
-[Website](https://www.joseramonsahuquillo.com) · [LinkedIn](https://www.linkedin.com/in/jrsahuquillo/)
+[LinkedIn](https://www.linkedin.com/in/jrsahuquillo/)
